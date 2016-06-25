@@ -1,0 +1,170 @@
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href='https://fonts.googleapis.com/css?family=Passion+One:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+
+h1 {
+	font-family: 'Passion One';
+	color:white;
+	font-size: 40pt;
+	margin-left:120px;
+	margin-right:120px;
+}
+
+
+h2 {
+	font-family:'Passion One';
+	color:orange;
+	font-size:40pt;
+	margin-left:120px;
+	margin-right:120px;
+	background:#25234a;
+	text-align:center;
+	margin-left:-10px;
+	margin-right:-10px;
+}
+
+h3 {
+	font-family:"avenir-heavy";
+	color:white;
+	font-size:14pt;
+}
+
+h4 {
+	font-family:"avenir";
+	color:white;
+	font-size:10pt;
+}
+
+
+body {
+	background-color:#262323;
+}
+
+p {
+	font-family:"avenir-heavy";
+	color:white;
+	font-size:14pt;
+	padding:20px;
+}
+
+.white {
+	color:white;
+	font-size: 36pt;
+	text-align: center;
+}
+
+.space {
+	padding-bottom:30px;
+}
+
+.ul {
+	font-family: 'Passion One';
+	font-size:30pt;
+	padding-top:12px;
+	padding-bottom:12px;
+}
+
+.hourssocial {
+	text-align:center;
+	padding-top:40px;
+}
+
+.breakfast {
+	padding-left:-20px;
+	padding-right:-20px;
+}
+
+.storefront {
+	position:relative;
+	background-image: url(../images/wallys.png);
+	background-size: cover;
+	height:650px;
+	text-align:center;
+	background-repeat: no-repeat;
+}
+
+.storefront h1 {
+	color:white;
+	font-family: 'Passion One';
+	font-size:80pt;
+	position: relative;
+	top:50%;
+	transform: translateY(-50%);
+}
+
+.middle-section {
+	padding-top:50px;
+	padding-bottom:100px;
+}
+
+.nav-color {
+	color:#f99728;
+}
+
+.dates {
+	color:white;
+	font-family:"avenir-heavy";
+	text-align: center;
+}
+
+.bits-text {
+	margin-left:-50px;
+}
+
+.social {
+	padding-top:20px;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+.owner {
+	width:600px;
+}
+
+.background {
+	padding-top:130px;
+	text-align: center;
+}
+
+.li {
+	color:#f99728;
+}
+
+.center {
+	text-align: center;
+}
+
+.space {
+	padding-bottom:50px;
+}
+
+.contact {
+	padding-top:80px;
+}
+
+.number {
+	padding-top:20px;
+}
+
+.phone {
+	padding-right: 30px;
+}
+
+.maps {
+	margin-top:-80px;
+}
+
+@media (max-width: 600px) {
+	.storefront h1 {
+    	font-size: 50pt;
+    	color:white;
+  	}
+
+  	h1 {
+  		font-size:25pt;
+  		color:white;
+  	}
+}
+
